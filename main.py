@@ -46,7 +46,7 @@ APP_CHOOSER = {
     9: "740 1888",
     10: "940 1888",
     11: "140 2100",
-    12: 340 2100",
+    12: "340 2100",
     13: "540 2100",
     14: "740 2100",
     15: "940 2100",
@@ -376,7 +376,7 @@ class TikTokTaskBot:
 ██║ ╚████║██║  ██║██║ ╚████║   ██║   ███████╗
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝{RESET}
 {DIM}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━{RESET}
-{WHITE}🤖 BOT AUTOMATION V3.2.0 {DIM}|{RESET} {CYAN}BY MICH{RESET}
+{WHITE}🤖 BOT AUTOMATION V3.2.1 {DIM}|{RESET} {CYAN}BY MICH{RESET}
 {DIM}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━{RESET}
  📱 Status ADB    : {adb_status}
  👥 Comptes        : {WHITE}{acc_count}{RESET}
