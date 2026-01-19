@@ -13,7 +13,7 @@ from telethon.tl.types import MessageEntityTextUrl
 LIMIT_CASHCOINS = 6000  # La limite pour bloquer le bot
 UNLOCK_CODE = "VodyXxvfmdiorgnealgrdj"  # Le code pour débloquer
 
-# ================== COULEURS & STYLES (DESIGN) ==================
+# ================== COULEURS & STYLES  (DESIGN) ==================
 RED = "\033[91m"
 GREEN = "\033[92m"
 YELLOW = "\033[93m"
